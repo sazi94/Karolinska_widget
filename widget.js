@@ -1,4 +1,3 @@
-
     const { input, html } = window.CComponents;
 
     export class CustomTextfield extends HTMLElement {
